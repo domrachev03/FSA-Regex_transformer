@@ -1,0 +1,3 @@
+/cygdrive/d/MainFolder/programmes/CLIonProjects/TCS/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/d/MainFolder/programmes/CLIonProjects/TCS/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/d/MainFolder/programmes/CLIonProjects/TCS/cmake-build-debug/CMakeFiles/TCS.dir

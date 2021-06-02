@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/d/MainFolder/programmes/CLIonProjects/TCS/main.cpp
+iostream
+-
+set
+-
+vector
+-
+fstream
+-
+regex
+-
+algorithm
+-
+queue
+-
+

@@ -1,0 +1,4 @@
+Cygwin not found at: D:\Cygwin Configure Disable profile
+
+Cannot get compiler information:
+	Cannot run program "D:\Cygwin\bin\c++.exe" (in directory "D:\MainFolder\programmes\CLIonProjects\TCS\cmake-build-debug"): CreateProcess error=2, Не удается найти указанный файл
